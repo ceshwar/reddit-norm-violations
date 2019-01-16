@@ -6,7 +6,7 @@ For each of the labeled topics, we identified the top 5000 removed comments that
 
 8 files, each containing 5000+ removed comments obtained from Reddit, are stored in: data/macro-norm-violations/ , and they are split into different files based on the macro norm they violated. Each new line in the files represent a comment that was posted on Reddit between May 2016 to March 2017, and subsequently removed by subreddit moderators for violating community norms. All comments were preprocessed using the script in code/preprocessing-reddit-comments.py , in order to do the following: 1. remove new lines, 2. convert text to lowercase, and 3. strip numbers and punctuations from comments.
 
-Descriptions of each file containing example Reddit (removed) comments violating macro norms present in data/macro-norm-violations/: 
+Descriptions of each file containing 5059 comments (that were removed from Reddit, and preprocessed) violating macro norms present in data/macro-norm-violations/: 
 * "macro-norm-violations-n10-t0-misogynistic-slurs.csv" - Comments that use misogynistic slurs.
 * "macro-norm-violations-n15-t2-hatespeech-racist-homophobic.csv" - Comments containing hate speech that is racist or homophobic.
 * "macro-norm-violations-n10-t3-opposing-political-views-trump.csv", "macro-norm-violations-n15-t10-opposing-political-views-trump.csv" -  Comments with opposing political views around Trump (depends on originating sub).
