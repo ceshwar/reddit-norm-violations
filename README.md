@@ -4,7 +4,7 @@ Working with over 2.8M removed comments collected from 100 different communities
 
 For each of the labeled topics, we identified the top 5000 removed comments that were best fit by the LDA topic model. In this way, we identified over 5000 removed comments that are examples of each type of macro norm violation described in the paper. The removed comments were sorted by their topic fit, stored into respective files based on the type of norm violation they represent, and are made available on this repo.
 
-8 files, each containing 5000+ removed comments obtained from Reddit, are stored in: data/macro-norm-violations/ , and they are split into different files based on the macro norm they violated. 
+8 files, each containing 5000+ removed comments obtained from Reddit, are stored in: data/macro-norm-violations/ , and they are split into different files based on the macro norm they violated. Each new line in the files represent a comment that was posted on Reddit between May 2016 to March 2017, and subsequently removed by subreddit moderators for violating community norms. All comments were preprocessed using the script in code/preprocessing-reddit-comments.py , in order to do the following: 1. remove new lines, 2. convert text to lowercase, and 3. strip numbers and punctuations from comments.
 
 Descriptions of each file containing example Reddit (removed) comments violating macro norms present in data/macro-norm-violations/: 
 * "macro-norm-violations-n10-t0-misogynistic-slurs.csv" - Comments that use misogynistic slurs.
