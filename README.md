@@ -1,6 +1,7 @@
 # Hybrid Approaches to Detect Comments Violating Macro Norms on Reddit: reddit-norm-violations
 
 Authors: Eshwar Chandrasekharan (eshwar3@gatech.edu), Eric Gilbert (eegg@umich.edu)
+
 DOI: https://doi.org/10.5281/zenodo.2541449
 
 Working with over 2.8M removed comments collected from 100 different communities on Reddit (subreddit names listed in data/study-subreddits.csv), we identified 8 macro norms, i.e., norms that are widely enforced on most parts of Reddit. We extracted these macro norms by employing a hybrid approach—classification, topic modeling, and open-coding—on comments identified to be norm violations within at least 85 out of the 100 study subreddits. Finally, we labelled over 40K Reddit comments removed by moderators according to the specific type of macro norm being violated, and make this dataset publicly available.
