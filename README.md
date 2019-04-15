@@ -2,6 +2,12 @@
 
 Authors: Eshwar Chandrasekharan (eshwar3@gatech.edu), Eric Gilbert (eegg@umich.edu)
 
+This dataset was generated as an extension of our CSCW paper: 
+
+*Eshwar Chandrasekharan, Mattia Samory, Shagun Jhaver, Hunter Charvat, Amy Bruckman, Cliff Lampe, Jacob Eisenstein, and Eric Gilbert. 2018. The Internet’s Hidden Rules: An Empirical Study of Reddit Norm Violations at Micro, Meso, and Macro Scales. Proceedings of the ACM on Human-Computer Interaction 2, CSCW (2018), 32.*
+
+More details about the dataset can be found on arXiv: https://arxiv.org/abs/1904.03596
+
 DOI: https://doi.org/10.5281/zenodo.2541449
 
 Working with over 2.8M removed comments collected from 100 different communities on Reddit (subreddit names listed in data/study-subreddits.csv), we identified 8 macro norms, i.e., norms that are widely enforced on most parts of Reddit. We extracted these macro norms by employing a hybrid approach—classification, topic modeling, and open-coding—on comments identified to be norm violations within at least 85 out of the 100 study subreddits. Finally, we labelled over 40K Reddit comments removed by moderators according to the specific type of macro norm being violated, and make this dataset publicly available.
