@@ -32,6 +32,6 @@ Here we make the following datasets publicly available:
 
 **Description of 1 file containing over 2M removed comments from 100 subreddits present in https://doi.org/10.5281/zenodo.3338698**
 
-"reddit-removal-log.csv" - all comments that were removed from the 100 study subreddits during the study period described above (post-filtering). [**Note:** This file is not included in the GitHub repository due to space restrictions.]
+* "reddit-removal-log.csv" - all comments that were removed from the 100 study subreddits during the study period described above (post-filtering). [**Note:** This file is not included in the GitHub repository due to space restrictions.]
 
 Results of open-coding are available here (mapping topic to macro norm)- https://docs.google.com/spreadsheets/d/1H7b28iRrKJiHGDqlmQ2Lc8S7bqwFjq8Jc-IgHUIm5Ig/edit?usp=sharing
