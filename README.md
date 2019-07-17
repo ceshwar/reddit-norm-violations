@@ -30,8 +30,8 @@ Here we make the following datasets publicly available:
 * "macro-norm-violations-n15-t3-abusing-and-criticisizing-mods.csv" - Comments abusing and criticisizng moderators.
 * "macro-norm-violations-n15-t9-namecalling-claiming-other-too-sensitive.csv" - Comments with name-calling, or claiming that the other person is too sensitive.
 
-**Description of 1 file containing over 2M removed comments from 100 subreddits present in data/**
+**Description of 1 file containing over 2M removed comments from 100 subreddits present in https://doi.org/10.5281/zenodo.3338698**
 
-"reddit-removal-log.csv" - all comments that were removed from the 100 study subreddits during the study period described above (post-filtering).
+"reddit-removal-log.csv" - all comments that were removed from the 100 study subreddits during the study period described above (post-filtering). [**Note:** This file is not included in the GitHub repository due to space restrictions.]
 
 Results of open-coding are available here (mapping topic to macro norm)- https://docs.google.com/spreadsheets/d/1H7b28iRrKJiHGDqlmQ2Lc8S7bqwFjq8Jc-IgHUIm5Ig/edit?usp=sharing
