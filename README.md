@@ -2,11 +2,23 @@
 
 Authors: Eshwar Chandrasekharan (eshwar3@gatech.edu), Eric Gilbert (eegg@umich.edu)
 
-This dataset was generated as an extension of our CSCW paper: 
+This dataset was generated as an extension of our CSCW paper:
 
 *Eshwar Chandrasekharan, Mattia Samory, Shagun Jhaver, Hunter Charvat, Amy Bruckman, Cliff Lampe, Jacob Eisenstein, and Eric Gilbert. 2018. The Internet’s Hidden Rules: An Empirical Study of Reddit Norm Violations at Micro, Meso, and Macro Scales. Proceedings of the ACM on Human-Computer Interaction 2, CSCW (2018), 32.*
 
-More details about the dataset can be found on arXiv: https://arxiv.org/abs/1904.03596
+**Bibtex citation for this dataset:**
+@article{chandrasekharan2018internet,
+  title={The Internet's Hidden Rules: An Empirical Study of Reddit Norm Violations at Micro, Meso, and Macro Scales},
+  author={Chandrasekharan, Eshwar and Samory, Mattia and Jhaver, Shagun and Charvat, Hunter and Bruckman, Amy and Lampe, Cliff and Eisenstein, Jacob and Gilbert, Eric},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={2},
+  number={CSCW},
+  pages={32},
+  year={2018},
+  publisher={ACM}
+}
+
+More details about the dataset can be found in a short dataset paper: https://arxiv.org/abs/1904.03596
 
 DOI: https://doi.org/10.5281/zenodo.3338698
 
