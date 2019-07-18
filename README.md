@@ -1,6 +1,6 @@
 # Hybrid Approaches to Detect Comments Violating Macro Norms on Reddit: reddit-norm-violations
 
-**[Content warning: Files included in this repository contain instances of highly inflammatory and offensive content.]**
+**[Content warning: Files in data/ may contain instances of highly inflammatory and offensive content.]**
 
 Authors: Eshwar Chandrasekharan (eshwar3@gatech.edu), Eric Gilbert (eegg@umich.edu)
 
