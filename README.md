@@ -1,5 +1,7 @@
 # Hybrid Approaches to Detect Comments Violating Macro Norms on Reddit: reddit-norm-violations
 
+**[Content warning: Files included in this repository may contain instances of comments that are highly inflammatory or offensive]**
+
 Authors: Eshwar Chandrasekharan (eshwar3@gatech.edu), Eric Gilbert (eegg@umich.edu)
 
 This dataset was generated as an extension of our CSCW paper:
